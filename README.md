@@ -1,2 +1,4 @@
 EXAMEN BIMESTRAL DRUMSS
-examen-bimestral2.netlify.app
+
+https://examen-bimestral2.netlify.app/
+
