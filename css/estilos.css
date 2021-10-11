@@ -1,0 +1,17 @@
+body{
+    background-color: bisque;
+}   
+
+.estilo{
+    margin-top: 420px;
+    margin-left: 50px;
+    width: 150px;
+height: 150px;
+left: 485px;
+top: 422px;
+
+background: #8D7C65;
+border: 4px solid #000000;
+border-radius: 5%;
+
+}
