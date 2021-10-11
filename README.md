@@ -1,2 +1,2 @@
-#EXAMEN-BIMESTRAL
-##FARID CHAMBILLA
+EXAMEN BIMESTRAL DRUMSS
+examen-bimestral2.netlify.app
